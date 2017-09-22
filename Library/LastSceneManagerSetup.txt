@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FeiChe/Scence/mian.unity
+  isLoaded: 1
+  isActive: 1
